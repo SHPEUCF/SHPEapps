@@ -11,11 +11,11 @@ How are we doing this?
 - We meet weekly
 - We learn collectively
 - We write code
-- We built stuff
+- We build stuff
 - Most importantly, we work hard
 - Everyone contributes
 
-###### Some technologies/tools we use:
+**Some technologies/tools we use:**
 - Git & GitHub
 - Code editor or IDE of your preference (Atom.io, Sublime Text, Nuclide, Visual Studio, VIM, [add your favorite])
 - Javascript
