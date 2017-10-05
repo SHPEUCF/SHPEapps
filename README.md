@@ -1,4 +1,5 @@
 # SHPEapps
+**Meetings: Every Thursday 6-7PM - EGN1 - 327**
 
 SHPE UCF Mobile Applications by SHPE UCF Development Team [Facebook Group](https://www.facebook.com/groups/shpeucfapps/)
 
