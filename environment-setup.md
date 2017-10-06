@@ -1,3 +1,11 @@
+### Everyone ###
+
+Make sure you have/create a free account on:
+
+https://github.com/join?source=header-home
+
+**Computer Setup**
+
 Mac
 
 Install:
