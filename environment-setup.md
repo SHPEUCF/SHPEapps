@@ -28,4 +28,5 @@ Install:
 - Expo: https://expo.io/
 - Android Studio: https://developer.android.com/studio/index.html
 - Java SDK 1.8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- Python 2.7: https://www.python.org/downloads/windows/
 - Axure RP: https://www.axure.com/download
