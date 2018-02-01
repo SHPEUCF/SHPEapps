@@ -1,5 +1,5 @@
 # SHPEapps
-### Spring 2018 Meetings: Every Thursday 4-5:50PM - HPA1-363
+### Spring 2018 Meetings: Every Thursday 4-5:50PM - BA1-221
 
 SHPE UCF Mobile Applications by SHPE UCF Development Team [Facebook Group](https://www.facebook.com/groups/shpeucfapps/)
 
